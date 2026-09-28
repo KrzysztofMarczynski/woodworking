@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stolarnia-paw.pl/sitemap.xml
