@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/1.jpg",
+    "file": "D:\\Code\\Stolarnia PAW\\stolarnia-paw-site\\public\\images\\1.jpg"
+  },
+  {
+    "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/kuchnie-1.jpg",
+    "file": "D:\\Code\\Stolarnia PAW\\stolarnia-paw-site\\public\\images\\kuchnie-1.jpg"
+  },
+  {
+    "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/4.webp",
+    "file": "D:\\Code\\Stolarnia PAW\\stolarnia-paw-site\\public\\images\\4.webp"
+  },
+  {
+    "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/11.webp",
+    "file": "D:\\Code\\Stolarnia PAW\\stolarnia-paw-site\\public\\images\\11.webp"
+  },
+  {
+    "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/drzwi_2026_7.jpg",
+    "file": "D:\\Code\\Stolarnia PAW\\stolarnia-paw-site\\public\\images\\drzwi_2026_7.jpg"
+  },
+  {
+    "url": "https://stolarnia-paw.pl/wp-content/gallery/jodelka/jodelka-3.jpg",
+    "file": "D:\\Code\\Stolarnia PAW\\stolarnia-paw-site\\public\\images\\jodelka-3.jpg"
+  },
+  {
+    "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/schody.jpg",
+    "error": "Error: Failed to download https://stolarnia-paw.pl/wp-content/gallery/schody/schody.jpg (status 404)"
+  },
+  {
+    "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/drzwi_2026_1.jpg",
+    "file": "D:\\Code\\Stolarnia PAW\\stolarnia-paw-site\\public\\images\\drzwi_2026_1.jpg"
+  }
+]

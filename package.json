@@ -1,0 +1,33 @@
+{
+  "name": "stolarnia-paw",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "generate:seo": "node scripts/generateSeoFiles.cjs",
+    "prebuild": "npm run generate:seo",
+    "build": "vite build",
+    "lint": "tsc --noEmit",
+    "check:links": "node scripts/checkLinks.cjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^13.2.0",
+    "lucide-react": "^1.41.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.18.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.5.5",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2",
+    "vite": "^5.0.0"
+  }
+}

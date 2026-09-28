@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Oblog debowy - placeholder</title>
+  <desc id="desc">Szkic cienkich warstw oblogu debowego.</desc>
+  <rect width="1400" height="1050" fill="#f4efe6"/>
+  <path d="M270 670c250-118 538-128 860-32M270 600c250-118 538-128 860-32M270 530c250-118 538-128 860-32M270 460c250-118 538-128 860-32" fill="none" stroke="#a56f3f" stroke-width="22" stroke-opacity=".34" stroke-linecap="round"/>
+  <path d="M270 670c250-118 538-128 860-32M270 600c250-118 538-128 860-32M270 530c250-118 538-128 860-32M270 460c250-118 538-128 860-32" fill="none" stroke="#2d2823" stroke-width="4" stroke-opacity=".42" stroke-linecap="round"/>
+  <text x="80" y="94" fill="#2d2823" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="8">STOLARNIA PAW</text>
+  <text x="80" y="140" fill="#8c6b4b" font-family="Inter, Arial, sans-serif" font-size="15" letter-spacing="5">OBLOG / PLACEHOLDER</text>
+</svg>

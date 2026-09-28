@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Artykul - placeholder</title>
+  <desc id="desc">Minimalny placeholder artykulu magazynowego.</desc>
+  <rect width="1400" height="900" fill="#f4efe6"/>
+  <path d="M140 160h460M140 250h660M140 340h540M140 430h760M140 520h480" stroke="#2d2823" stroke-opacity=".16" stroke-width="10"/>
+  <path d="M870 170h360v520H870z" fill="#a56f3f" fill-opacity=".18" stroke="#2d2823" stroke-width="5" stroke-opacity=".5"/>
+  <path d="M900 640c74-125 173-220 300-284" fill="none" stroke="#a56f3f" stroke-width="10" stroke-opacity=".55"/>
+  <text x="80" y="94" fill="#2d2823" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="8">STOLARNIA PAW</text>
+  <text x="80" y="140" fill="#8c6b4b" font-family="Inter, Arial, sans-serif" font-size="15" letter-spacing="5">BLOG / PLACEHOLDER</text>
+</svg>

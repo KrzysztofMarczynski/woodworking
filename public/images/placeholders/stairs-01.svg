@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Schody - placeholder</title>
+  <desc id="desc">Techniczny szkic schodow na papierowym tle.</desc>
+  <rect width="1400" height="1050" fill="#f4efe6"/>
+  <path d="M0 120H1400M0 240H1400M0 360H1400M0 480H1400M0 600H1400M0 720H1400M0 840H1400M0 960H1400M120 0V1050M240 0V1050M360 0V1050M480 0V1050M600 0V1050M720 0V1050M840 0V1050M960 0V1050M1080 0V1050M1200 0V1050M1320 0V1050" stroke="#2d2823" stroke-opacity=".06"/>
+  <path d="M190 760h150v-72h150v-72h150v-72h150v-72h150v-72h150" fill="none" stroke="#2d2823" stroke-width="7" stroke-linecap="square"/>
+  <path d="M190 759h150l150-72h150l150-72h150l150-72" fill="none" stroke="#a56f3f" stroke-width="16" stroke-linecap="square" stroke-opacity=".55"/>
+  <path d="M180 330c230 25 405 64 580 118 132 40 247 52 425 29" fill="none" stroke="#2d2823" stroke-opacity=".25" stroke-width="3"/>
+  <text x="80" y="94" fill="#2d2823" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="8">STOLARNIA PAW</text>
+  <text x="80" y="140" fill="#8c6b4b" font-family="Inter, Arial, sans-serif" font-size="15" letter-spacing="5">SCHODY / PLACEHOLDER</text>
+</svg>

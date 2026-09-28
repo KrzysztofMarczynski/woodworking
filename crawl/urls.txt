@@ -1,0 +1,48 @@
+# Initial URL list extracted from sitemaps (stolarnia-paw.pl)
+
+# Pages (from page-sitemap)
+https://stolarnia-paw.pl/
+https://stolarnia-paw.pl/stolarnia-paw/
+https://stolarnia-paw.pl/polityka-prywatnosci/
+https://stolarnia-paw.pl/o-nas/
+https://stolarnia-paw.pl/boazerie/
+https://stolarnia-paw.pl/tartacznictwo/
+https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/
+https://stolarnia-paw.pl/schody/schody-zabudowane/
+https://stolarnia-paw.pl/schody-drewniane-na-beton/
+https://stolarnia-paw.pl/kuchnie/
+https://stolarnia-paw.pl/kontakt/
+https://stolarnia-paw.pl/schody/
+https://stolarnia-paw.pl/tartacznictwo/tarcica-debowa/
+https://stolarnia-paw.pl/tartacznictwo/tarcica-jesionowa/
+https://stolarnia-paw.pl/schody/schody-drewniane-dywanowe/
+https://stolarnia-paw.pl/schody/schody-drewniane-samonosne/
+https://stolarnia-paw.pl/meble-i-zabudowy/
+https://stolarnia-paw.pl/drzwi/
+https://stolarnia-paw.pl/podlogi/
+https://stolarnia-paw.pl/podlogi/jodelka-francuska/
+
+# Blog posts (examples from post-sitemap; full list contains 15 URLs)
+https://stolarnia-paw.pl/jakie-deski-najlepiej-nadaja-sie-na-podlogi/
+https://stolarnia-paw.pl/do-czego-wykorzystywane-sa-oblogi-debowe/
+https://stolarnia-paw.pl/jak-ukladac-podloge-w-jodelke/
+https://stolarnia-paw.pl/po-czym-poznac-deski-podlogowe-dobrej-jakosci/
+https://stolarnia-paw.pl/jak-dobrac-drewniane-drzwi-na-wymiar/
+https://stolarnia-paw.pl/od-pozyskania-drewna-po-montaz-jak-powstaja-schody-drewniane-dywanowe-proces-produkcji-krok-po-kroku/
+https://stolarnia-paw.pl/jak-dbac-o-podloge-z-drewna/
+https://stolarnia-paw.pl/jak-wybrac-najlepsza-metode-zabezpieczenia-schodow-drewnianych-dywanowych-kompletny-przewodnik-stolarni-paw/
+https://stolarnia-paw.pl/wybor-samonosnych-schodow-drewnianych-kluczowe-wskazowki/
+https://stolarnia-paw.pl/balustrady-i-porecze-do-schodow-drewnianych-dywanowych-najciekawsze-rozwiazania/
+https://stolarnia-paw.pl/ile-kosztuja-schody-drewniane-dywanowe-w-2026-roku-od-czego-zalezy-cena/
+https://stolarnia-paw.pl/meble-na-wymiar-2026-trendy-ktore-naprawde-zostana-na-lata/
+https://stolarnia-paw.pl/producent-deski-podlogowej-jak-wybrac-podloge-ktora-zachwyca-wygladem-i-sluzy-przez-dziesieciolecia/
+https://stolarnia-paw.pl/podloga-drewniana-w-jodelke-francuska-od-przygotowania-podloza-po-codzienna-pielegnacje/
+https://stolarnia-paw.pl/tarcica-debowa-sucha-i-mokra-kompletny-poradnik-przed-zakupem/
+
+# Category sitemap
+https://stolarnia-paw.pl/blog/
+
+# Notes
+- This is an initial list extracted from the sitemap index and sub-sitemaps visible via the site's sitemap.xml.
+- Next step: fetch each URL and extract Title, Meta Description, H1, canonical, breadcrumbs, and primary images. Also download/logo assets.
+- Full crawl can be run to detect any additional internal links not present in sitemaps.

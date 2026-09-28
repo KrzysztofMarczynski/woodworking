@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Realizacja - placeholder</title>
+  <desc id="desc">Editorialowy placeholder realizacji stolarskiej.</desc>
+  <rect width="1400" height="1050" fill="#f4efe6"/>
+  <rect x="160" y="170" width="710" height="720" fill="#2d2823" fill-opacity=".08"/>
+  <rect x="760" y="276" width="430" height="520" fill="#a56f3f" fill-opacity=".22"/>
+  <path d="M210 808c270-180 500-210 910-48" stroke="#2d2823" stroke-opacity=".28" stroke-width="5" fill="none"/>
+  <path d="M245 245h560v270H245zM805 360h310v350H805z" fill="none" stroke="#2d2823" stroke-width="5" stroke-opacity=".55"/>
+  <text x="80" y="94" fill="#2d2823" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="8">STOLARNIA PAW</text>
+  <text x="80" y="140" fill="#8c6b4b" font-family="Inter, Arial, sans-serif" font-size="15" letter-spacing="5">REALIZACJA / PLACEHOLDER</text>
+</svg>

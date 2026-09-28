@@ -1,0 +1,68 @@
+import { imageGalleries, images } from "./images";
+
+export const projects = [
+  {
+    number: "01",
+    title: "Schody drewniane",
+    category: "Schody",
+    path: "/schody/",
+    image: images.services.stairs,
+    description: "Dębowe stopnie, białe podstopnie i geometryczna balustrada stalowa.",
+  },
+  {
+    number: "02",
+    title: "Podłoga drewniana",
+    category: "Podłogi",
+    path: "/podlogi/",
+    image: images.services.floors,
+    description: "Dębowa jodełka francuska ułożona z zachowaniem osi i rytmu wnętrza.",
+  },
+  {
+    number: "03",
+    title: "Kuchnia na wymiar",
+    category: "Kuchnie",
+    path: "/kuchnie/",
+    image: images.services.kitchens,
+    description: "Nowoczesna zabudowa w granacie i bieli z dębowymi akcentami.",
+  },
+  {
+    number: "04",
+    title: "Drzwi drewniane",
+    category: "Drzwi",
+    path: "/drzwi/",
+    image: images.services.doors,
+    description: "Drzwi wewnętrzne wykonane na wymiar i dopasowane do charakteru domu.",
+  },
+  {
+    number: "05",
+    title: "Stół z litego dębu",
+    category: "Meble",
+    path: "/meble-i-zabudowy/",
+    image: imageGalleries.furniture[0],
+    description: "Indywidualnie wykonany stół z wyrazistym rysunkiem naturalnego drewna.",
+  },
+  {
+    number: "06",
+    title: "Okładziny ścienne",
+    category: "Boazerie",
+    path: "/boazerie/",
+    image: images.services.paneling,
+    description: "Drewniana zabudowa ścian w przestrzeni recepcji i korytarza.",
+  },
+  {
+    number: "07",
+    title: "Tarcica dębowa",
+    category: "Tartak",
+    path: "/tartacznictwo/",
+    image: images.services.timber,
+    description: "Sezonowany materiał przygotowany do dalszej pracy stolarskiej.",
+  },
+  {
+    number: "08",
+    title: "Produkcja tartaczna",
+    category: "Od surowca",
+    path: "/tartacznictwo/",
+    image: imageGalleries.timber[1],
+    description: "Zaplecze produkcyjne, w którym rozpoczyna się droga drewna do wnętrza.",
+  },
+];

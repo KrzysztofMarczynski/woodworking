@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+
+# Local migration and review files
+.crawl/
+design-sources/
+IDEAL_PROMPT.txt
+
+# Development output
+dev-server.log
+dev-server.err
+*.log
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
