@@ -34,7 +34,7 @@ export const videos = {
   acaciaTable: {
     src: "/images/video/stolik-akacjowy.mp4",
     poster: "/images/video/stolik-akacjowy.jpg",
-    label: "Meble / drewno akacjowe",
+    label: "Meble / stolik na wymiar",
     sourceUrl: "https://www.facebook.com/reel/1087775663646087",
   },
 } satisfies Record<string, VideoAsset>;
