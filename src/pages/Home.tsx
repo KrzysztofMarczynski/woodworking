@@ -23,7 +23,26 @@ export default function Home() {
     <>
       <SEO title="Stolarnia Paw – produkcja podłóg, schodów i mebli" description="Rodzinna stolarnia z własnym tartakiem. Schody, podłogi, drzwi, kuchnie i meble na wymiar w Małopolsce." canonicalPath="/" />
       <section className="home-hero">
-        <img className="home-hero__image" src={images.hero.src} alt={images.hero.alt} width={images.hero.width} height={images.hero.height} />
+        <video
+          className="home-hero__image home-hero__video"
+          autoPlay
+          loop
+          muted
+          playsInline
+          poster="/images/video/lakierowanie-drzwi.jpg"
+          preload="metadata"
+          aria-hidden="true"
+        >
+          <source src="/images/video/lakierowanie-drzwi.mp4" type="video/mp4" />
+        </video>
+        <img
+          className="home-hero__image home-hero__poster"
+          src="/images/video/lakierowanie-drzwi.jpg"
+          alt=""
+          width="540"
+          height="960"
+          aria-hidden="true"
+        />
         <div className="home-hero__wash" />
         <div className="shell home-hero__content">
           <Reveal>

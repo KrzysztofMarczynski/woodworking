@@ -12,7 +12,12 @@ const expected = [...crawled.map((item) => item.url),
   "https://stolarnia-paw.pl/polityka-cookies/",
 ];
 const missing = expected.filter((url) => !sitemap.includes(`<loc>${url}</loc>`));
-const requiredFiles = ["public/images/logo-paw.jpg", "public/images/hero-sketch.jpg", "public/robots.txt"];
+const requiredFiles = [
+  "public/images/logo-paw.png",
+  "public/images/video/lakierowanie-drzwi.jpg",
+  "public/images/video/lakierowanie-drzwi.mp4",
+  "public/robots.txt",
+];
 const missingFiles = requiredFiles.filter((file) => !fs.existsSync(path.join(root, file)));
 
 if (missing.length || missingFiles.length) {

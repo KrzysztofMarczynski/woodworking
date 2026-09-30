@@ -2,7 +2,6 @@ import type { ImageAsset } from "../types/content";
 
 type ImageLibrary = {
   logo: ImageAsset;
-  hero: ImageAsset;
   services: Record<"stairs" | "floors" | "doors" | "kitchens" | "furniture" | "paneling" | "timber" | "veneer", ImageAsset>;
   project: ImageAsset;
   article: ImageAsset;
@@ -375,12 +374,6 @@ export const images: ImageLibrary = {
     width: 600,
     height: 327,
   },
-  hero: {
-    src: "/images/hero-sketch.jpg",
-    alt: "Szkic koncepcyjny drewnianych schodów i wnętrza",
-    width: 1228,
-    height: 1228,
-  },
   services: {
     stairs: {
       ...portfolio.stairs,
@@ -399,16 +392,10 @@ export const images: ImageLibrary = {
     },
   },
   project: {
-    src: "/images/placeholders/project-01.svg",
-    alt: "Placeholder zdjęcia realizacji Stolarnia Paw",
-    width: 1400,
-    height: 1050,
+    ...portfolio.stairs,
   },
   article: {
-    src: "/images/placeholders/article-01.svg",
-    alt: "Placeholder grafiki artykułu Stolarnia Paw",
-    width: 1400,
-    height: 900,
+    ...portfolio.oakBoards,
   },
 };
 
