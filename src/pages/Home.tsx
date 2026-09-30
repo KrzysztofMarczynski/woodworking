@@ -2,6 +2,7 @@ import { useState } from "react";
 import { ArrowDown, ArrowRight, DraftingCompass, Hammer, Layers3, Ruler, Trees } from "lucide-react";
 import { Link } from "react-router-dom";
 import CTA from "../components/CTA";
+import OfferMedia from "../components/OfferMedia";
 import Reveal from "../components/Reveal";
 import SEO from "../components/SEO";
 import SectionHeading from "../components/SectionHeading";
@@ -9,7 +10,7 @@ import { blogPosts } from "../data/blog";
 import { images } from "../data/images";
 import { projects } from "../data/projects";
 import { primaryServices } from "../data/services";
-import { homeVideos } from "../data/videos";
+import { homeVideos, serviceVideos } from "../data/videos";
 import { formatDate } from "../lib/path";
 
 const process = [
@@ -75,7 +76,9 @@ export default function Home() {
             {primaryServices.map((service, index) => (
               <Reveal className={`offer-item offer-item--${(index % 3) + 1}`} key={service.path}>
                 <Link to={service.path}>
-                  <div className="offer-item__media"><img src={service.image.src} alt={service.image.alt} width={service.image.width} height={service.image.height} loading="lazy" /></div>
+                  <div className={`offer-item__media${serviceVideos[service.key] ? " offer-item__media--video" : ""}`}>
+                    <OfferMedia image={service.image} video={serviceVideos[service.key]} />
+                  </div>
                   <div className="offer-item__meta"><span>{String(index + 1).padStart(2, "0")}</span><h3>{service.menuTitle}</h3><ArrowRight size={20} /></div>
                   <p>{service.lead}</p>
                 </Link>
