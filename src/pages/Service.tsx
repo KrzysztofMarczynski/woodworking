@@ -11,6 +11,7 @@ import SectionHeading from "../components/SectionHeading";
 import { imageGalleries } from "../data/images";
 import { legacyContent } from "../data/legacyContent";
 import { findServiceByPath, type ServicePage } from "../data/services";
+import { serviceVideos } from "../data/videos";
 
 export default function Service({ service }: { service: ServicePage }) {
   const [activeImage, setActiveImage] = useState<number | null>(null);
@@ -25,7 +26,7 @@ export default function Service({ service }: { service: ServicePage }) {
 
   return <>
     <SEO title={service.seo.title} description={service.seo.description} canonicalPath={service.seo.canonicalPath} schema={faqSchema} />
-    <PageHero eyebrow={service.eyebrow} title={service.heroTitle} lead={service.lead} image={service.image} breadcrumbs={[{ label: "Oferta", path: "/oferta/" }, { label: service.h1 }]} />
+    <PageHero eyebrow={service.eyebrow} title={service.heroTitle} lead={service.lead} image={service.image} video={serviceVideos[service.key]} breadcrumbs={[{ label: "Oferta", path: "/oferta/" }, { label: service.h1 }]} />
     <section className="service-highlights"><div className="shell">{service.highlights.map((item) => <div key={item}><Check size={18} /><span>{item}</span></div>)}</div></section>
     <section className="section"><div className="shell service-details"><SectionHeading eyebrow="Zakres" title={service.h1} />{service.details.map((detail, index) => <Reveal className="service-detail" key={detail.title}><span>0{index + 1}</span><div><h2>{detail.title}</h2><p>{detail.body}</p>{detail.items && <ul>{detail.items.map((item) => <li key={item}>{item}</li>)}</ul>}</div></Reveal>)}</div></section>
     {gallery.length > 0 && <section className="section service-gallery-section"><div className="shell"><SectionHeading eyebrow="Wybrane realizacje" title="Drewno w gotowej przestrzeni." text="Kliknij zdjęcie, aby zobaczyć realizację na pełnym ekranie." /><div className="service-gallery">{gallery.map((image, index) => <figure key={image.src}><button className="gallery-trigger" type="button" onClick={() => setActiveImage(index)} aria-label={`Powiększ: ${image.alt}`}><img src={image.src} alt={image.alt} width={image.width} height={image.height} loading="lazy" decoding="async" /><span className="gallery-trigger__icon" aria-hidden="true"><Maximize2 /></span></button></figure>)}</div></div></section>}

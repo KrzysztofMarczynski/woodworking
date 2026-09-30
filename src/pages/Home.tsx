@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { ArrowDown, ArrowRight, DraftingCompass, Hammer, Layers3, Ruler, Trees } from "lucide-react";
 import { Link } from "react-router-dom";
 import CTA from "../components/CTA";
@@ -8,6 +9,7 @@ import { blogPosts } from "../data/blog";
 import { images } from "../data/images";
 import { projects } from "../data/projects";
 import { primaryServices } from "../data/services";
+import { homeVideos } from "../data/videos";
 import { formatDate } from "../lib/path";
 
 const process = [
@@ -19,30 +21,36 @@ const process = [
 ];
 
 export default function Home() {
+  const [activeVideoIndex, setActiveVideoIndex] = useState(0);
+  const activeVideo = homeVideos[activeVideoIndex];
+  const showNextVideo = () => setActiveVideoIndex((current) => (current + 1) % homeVideos.length);
+
   return (
     <>
       <SEO title="Stolarnia Paw – produkcja podłóg, schodów i mebli" description="Rodzinna stolarnia z własnym tartakiem. Schody, podłogi, drzwi, kuchnie i meble na wymiar w Małopolsce." canonicalPath="/" />
       <section className="home-hero">
-        <video
-          className="home-hero__image home-hero__video"
-          autoPlay
-          loop
-          muted
-          playsInline
-          poster="/images/video/lakierowanie-drzwi.jpg"
-          preload="metadata"
-          aria-hidden="true"
-        >
-          <source src="/images/video/lakierowanie-drzwi.mp4" type="video/mp4" />
-        </video>
-        <img
-          className="home-hero__image home-hero__poster"
-          src="/images/video/lakierowanie-drzwi.jpg"
-          alt=""
-          width="540"
-          height="960"
-          aria-hidden="true"
-        />
+        <div className="home-hero__media" aria-hidden="true">
+          <video
+            className="home-hero__image home-hero__video"
+            key={activeVideo.src}
+            autoPlay
+            muted
+            playsInline
+            poster={activeVideo.poster}
+            preload="auto"
+            onEnded={showNextVideo}
+            onError={showNextVideo}
+          >
+            <source src={activeVideo.src} type="video/mp4" />
+          </video>
+          <img
+            className="home-hero__image home-hero__poster"
+            src={activeVideo.poster}
+            alt=""
+            width="540"
+            height="960"
+          />
+        </div>
         <div className="home-hero__wash" />
         <div className="shell home-hero__content">
           <Reveal>
@@ -57,7 +65,7 @@ export default function Home() {
           </Reveal>
           <a className="hero-scroll" href="#oferta"><ArrowDown size={18} />Poznaj proces</a>
         </div>
-        <div className="hero-index"><span>01</span><span>Projekt / materiał / wykonanie</span></div>
+        <div className="hero-index"><span>{String(activeVideoIndex + 1).padStart(2, "0")} / {String(homeVideos.length).padStart(2, "0")}</span><span>{activeVideo.label}</span></div>
       </section>
 
       <section className="section offer-section" id="oferta">

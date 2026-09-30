@@ -5,6 +5,13 @@ export type ImageAsset = {
   height: number;
 };
 
+export type VideoAsset = {
+  src: string;
+  poster: string;
+  label: string;
+  sourceUrl: string;
+};
+
 export type SeoMeta = {
   title: string;
   description: string;
