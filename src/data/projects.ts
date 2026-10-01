@@ -3,6 +3,7 @@ import { imageGalleries, images } from "./images";
 export const projects = [
   {
     number: "01",
+    collectionId: "stairs-oak",
     title: "Schody drewniane",
     category: "Schody",
     path: "/schody/",
@@ -11,6 +12,7 @@ export const projects = [
   },
   {
     number: "02",
+    collectionId: "floor-french",
     title: "Podłoga drewniana",
     category: "Podłogi",
     path: "/podlogi/",
@@ -19,6 +21,7 @@ export const projects = [
   },
   {
     number: "03",
+    collectionId: "kitchen-blue",
     title: "Kuchnia na wymiar",
     category: "Kuchnie",
     path: "/kuchnie/",
@@ -27,6 +30,7 @@ export const projects = [
   },
   {
     number: "04",
+    collectionId: "doors-custom",
     title: "Drzwi drewniane",
     category: "Drzwi",
     path: "/drzwi/",
@@ -35,6 +39,7 @@ export const projects = [
   },
   {
     number: "05",
+    collectionId: "table-oak",
     title: "Stół z litego dębu",
     category: "Meble",
     path: "/meble-i-zabudowy/",
@@ -43,6 +48,7 @@ export const projects = [
   },
   {
     number: "06",
+    collectionId: "paneling-office",
     title: "Okładziny ścienne",
     category: "Boazerie",
     path: "/boazerie/",
@@ -51,6 +57,7 @@ export const projects = [
   },
   {
     number: "07",
+    collectionId: "timber-seasoned",
     title: "Tarcica dębowa",
     category: "Tartak",
     path: "/tartacznictwo/",
@@ -59,6 +66,7 @@ export const projects = [
   },
   {
     number: "08",
+    collectionId: "sawmill-production",
     title: "Produkcja tartaczna",
     category: "Od surowca",
     path: "/tartacznictwo/",

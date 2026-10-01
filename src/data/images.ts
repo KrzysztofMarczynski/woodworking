@@ -7,6 +7,13 @@ type ImageLibrary = {
   article: ImageAsset;
 };
 
+export type PortfolioCollection = {
+  id: string;
+  title: string;
+  category: string;
+  images: ImageAsset[];
+};
+
 const portfolio = {
   stairs: {
     src: "/images/portfolio/schody-debowe.jpg",
@@ -463,12 +470,58 @@ export const imageGalleries: Record<string, ImageAsset[]> = {
   veneer: [portfolio.veneerProduction, portfolio.oakBoards],
 };
 
-export const portfolioGallery: Array<ImageAsset & { category: string }> = [
-  ...imageGalleries.stairs.map((image) => ({ ...image, category: "Schody" })),
-  ...imageGalleries.floors.map((image) => ({ ...image, category: "Podłogi" })),
-  ...imageGalleries.doors.map((image) => ({ ...image, category: "Drzwi" })),
-  ...imageGalleries.kitchens.map((image) => ({ ...image, category: "Kuchnie" })),
-  ...imageGalleries.furniture.map((image) => ({ ...image, category: "Meble" })),
-  ...imageGalleries.paneling.map((image) => ({ ...image, category: "Boazerie" })),
-  ...imageGalleries.timber.map((image) => ({ ...image, category: "Tartak" })),
+export const portfolioCollections: PortfolioCollection[] = [
+  { id: "stairs-oak", title: "Schody dębowe z czarną balustradą", category: "Schody", images: [portfolio.stairs] },
+  { id: "stairs-multilevel", title: "Schody wielobiegowe", category: "Schody", images: [portfolio.stairsTop] },
+  { id: "stairs-self-supporting", title: "Jasne schody samonośne", category: "Schody", images: [portfolio.stairsSelf, portfolio.stairsDetail] },
+  { id: "floor-french", title: "Podłoga w jodełkę francuską", category: "Podłogi", images: [portfolio.floor] },
+  { id: "floor-oak", title: "Dębowa podłoga", category: "Podłogi", images: [existing.floor] },
+  { id: "floor-classic", title: "Klasyczny parkiet drewniany", category: "Podłogi", images: [portfolio.floorClassic] },
+  { id: "doors-custom", title: "Drzwi drewniane na wymiar", category: "Drzwi", images: [existing.door, existing.doorDetail] },
+  { id: "doors-hall", title: "Drzwi z naturalnym rysunkiem drewna", category: "Drzwi", images: [portfolio.doorHall] },
+  {
+    id: "kitchen-blue",
+    title: "Granatowo-biała kuchnia na wymiar",
+    category: "Kuchnie",
+    images: [portfolio.kitchen, portfolio.kitchenDetail, portfolio.kitchenSink, portfolio.kitchenTallUnits],
+  },
+  { id: "kitchen-oak", title: "Kuchnia z dębowymi frontami", category: "Kuchnie", images: [existing.kitchen] },
+  { id: "table-oak", title: "Stół z litego dębu", category: "Meble", images: [portfolio.table] },
+  { id: "table-resin", title: "Stół dębowy z czarną żywicą", category: "Meble", images: [portfolio.resinTable, portfolio.resinTableWorkshop] },
+  { id: "tables-live-edge", title: "Stoliki z naturalną krawędzią", category: "Meble", images: [portfolio.liveEdgeTables] },
+  { id: "table-loft", title: "Stół jadalniany w stylu loft", category: "Meble", images: [portfolio.diningTableLoft] },
+  { id: "table-steel-frame", title: "Stół dębowy na stalowej ramie", category: "Meble", images: [portfolio.diningTableInterior, portfolio.finishedLoftTable] },
+  { id: "table-x-leg", title: "Stół dębowy na podstawie X", category: "Meble", images: [portfolio.tableXLeg] },
+  { id: "living-room-built-in", title: "Dębowa zabudowa salonu", category: "Meble", images: [portfolio.livingRoomBuiltIn] },
+  { id: "under-stairs-built-in", title: "Zabudowa pod schodami", category: "Meble", images: [portfolio.underStairsBuiltIn] },
+  { id: "sloped-wardrobe", title: "Szafa pod skosem", category: "Meble", images: [portfolio.slopedWardrobe, portfolio.slopedWardrobeOpen] },
+  { id: "bathroom-console", title: "Dębowa konsola łazienkowa", category: "Meble", images: [portfolio.bathroomConsole, portfolio.bathroomConsoleDetail] },
+  { id: "geometric-shelf", title: "Geometryczny regał dębowy", category: "Meble", images: [portfolio.geometricShelf] },
+  { id: "dresser-detail", title: "Dębowa komoda na wymiar", category: "Meble", images: [portfolio.dresserDetail] },
+  { id: "bar-built-in", title: "Podświetlana zabudowa baru", category: "Meble", images: [portfolio.wineDisplay, portfolio.barBuiltIn, portfolio.barDisplayWide] },
+  { id: "hall-wardrobe", title: "Szafa wnękowa w korytarzu", category: "Meble", images: [portfolio.hallWardrobe] },
+  { id: "wooden-planter", title: "Drewniana donica na wymiar", category: "Meble", images: [portfolio.woodenPlanter] },
+  { id: "furniture-workshop", title: "Mebel wykonywany w pracowni", category: "Meble", images: [portfolio.furnitureWorkshop] },
+  {
+    id: "paneling-office",
+    title: "Okładziny drewniane we wnętrzu",
+    category: "Boazerie",
+    images: [portfolio.paneling, portfolio.panelingHall, portfolio.panelingStairs, portfolio.panelingReception],
+  },
+  {
+    id: "restaurant-interior",
+    title: "Drewniana zabudowa restauracji",
+    category: "Boazerie",
+    images: [portfolio.restaurantSlatWall, portfolio.restaurantDining, portfolio.woodPortal, portfolio.restaurantBooth, portfolio.restaurantInterior, portfolio.slatDivider],
+  },
+  { id: "stair-paneling", title: "Okładzina dębowa przy schodach", category: "Boazerie", images: [portfolio.stairPaneling] },
+  { id: "timber-seasoned", title: "Sezonowana tarcica dębowa", category: "Tartak", images: [portfolio.timber] },
+  { id: "sawmill-production", title: "Produkcja tartaczna", category: "Tartak", images: [portfolio.sawmill] },
+  { id: "timber-yard", title: "Drewno na terenie tartaku", category: "Tartak", images: [existing.timber] },
+  { id: "oak-boards", title: "Surowe deski dębowe", category: "Tartak", images: [portfolio.oakBoards] },
+  { id: "veneer-production", title: "Produkcja i sortowanie obłogu", category: "Tartak", images: [portfolio.veneerProduction, portfolio.veneerSorting] },
+  { id: "boards-processing", title: "Deski przygotowane do obróbki", category: "Tartak", images: [portfolio.boardsForProcessing] },
+  { id: "log-transport", title: "Transport pni dębowych", category: "Tartak", images: [portfolio.logTransport] },
+  { id: "timber-stacks", title: "Tarcica w trakcie sezonowania", category: "Tartak", images: [portfolio.timberStacks, portfolio.seasonedTimber] },
+  { id: "oak-logs", title: "Pnie dębowe do przetarcia", category: "Tartak", images: [portfolio.oakLogs] },
 ];
