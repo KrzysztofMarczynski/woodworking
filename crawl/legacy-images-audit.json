@@ -1,0 +1,2392 @@
+{
+  "generatedAt": "2026-10-01T19:44:33.723Z",
+  "pagesVisited": 41,
+  "galleryImageCount": 263,
+  "uploadImageCount": 49,
+  "galleryCounts": {
+    "drzwi": 53,
+    "jodelka": 5,
+    "kuchnie": 18,
+    "meble": 27,
+    "podlogi": 13,
+    "schody": 118,
+    "schody-drewniane-dywanowe": 10,
+    "schody-drewniane-na-beton": 8,
+    "schody-zabudowane": 11
+  },
+  "galleryImages": [
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/100.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/145678939_4345789448771286_1049209149106515138_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/151740217_4397211016962462_6932562194715896143_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/151781689_4397390943611136_2758752519398081156_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/151790540_4397418220275075_3534010778610478533_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/151841910_4397392390277658_4561372744278696419_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/151855840_4397385450278352_8730584831107690129_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/151876363_4397418506941713_8230767782136649033_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/151905746_4397416030275294_2905054507551623059_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/152006051_4397388046944759_661595624070286590_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/152069545_4397387813611449_3710863764705766486_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/152125624_4397390640277833_4061659753241448136_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/152243094_4397389390277958_18957870006080470_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/152420109_4397417306941833_5566054639308376413_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/152731195_4397419280274969_9197667763653065048_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/153005250_4397384626945101_8860603785149058316_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/253182068_5194076717275884_8300322751312726243_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/273369947_5546465332037019_2732805190685767102_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/277368599_5708381835845367_7588837426386188171_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/325729405_6667407286609538_3423170539342028379_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/327160916_894698088325771_106868753198702859_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/327214585_886319212682561_7398082146311260434_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/399606441_1010990590006548_3369151857821864818_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/53317818_2625321580818090_818128035084500992_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/79719430_3215659031784339_5354029372753838080_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/79734145_3215649188451990_7919843264880967680_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/79902808_3215650365118539_3332022425507332096_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/80405665_3215649148451994_8761460733805330432_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/80507945_3215651971785045_5925391273027436544_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/81013422_3215646858452223_7766015154294095872_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/81037362_3215651528451756_7705202918508462080_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/81586330_3215651055118470_3945046350365720576_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/82439564_3277782042238704_274288684675629056_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/82537526_3277782338905341_1166703736832131072_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/91.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/92.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/93.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/94.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/95.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/96.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/97.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/98.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/99.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/99108201_3593067500710155_7224757272503648256_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/99427571_3593057344044504_1480064739726852096_n.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/drzwi_2026_1.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/drzwi_2026_12.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/drzwi_2026_14.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/drzwi_2026_16.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/drzwi_2026_7.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/drzwi_2026_8.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/drzwi-1.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/drzwi/drzwi-2.jpg",
+      "gallery": "drzwi",
+      "pages": [
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/jodelka/B_IMG_176181_687_81_da19f13b_0128_112710.jpg",
+      "gallery": "jodelka",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/jodelka-francuska/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/jodelka/B_IMG_176181_729497_c08ebf68_0128_112710.jpg",
+      "gallery": "jodelka",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/jodelka-francuska/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/jodelka/jodelka-1.jpg",
+      "gallery": "jodelka",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/jodelka-francuska/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/jodelka/jodelka-2.jpg",
+      "gallery": "jodelka",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/jodelka-francuska/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/jodelka/jodelka-3.jpg",
+      "gallery": "jodelka",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/jodelka-francuska/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/11.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/12.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/13.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/14.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/15.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/152486299_4397331596950404_1308813218718513992_n.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/152491213_4397331070283790_2485966997381943505_n.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/152762050_4397331273617103_5643529331557575203_n.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/152835535_4397325220284375_490313244835000689_n.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/152863897_4397330813617149_4737244272304580879_n.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/kuch2-%E2%80%94-kopia.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/kuch3-%E2%80%94-kopia.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/kuch4-%E2%80%94-kopia.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/kuchnia5.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/kuchnia6.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/kuchnia7.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/kuchnie-1.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/kuchnie/kuchnie-2.jpg",
+      "gallery": "kuchnie",
+      "pages": [
+        "https://stolarnia-paw.pl/kuchnie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/1.webp",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/2.webp",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/3.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/4.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/FB_IMG_1706721094029.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/FB_IMG_1761815468862.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/FB_IMG_1761815486380.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/FB_IMG_1761815505387.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/FB_IMG_1761823250034.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG-20240912-WA0002.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG-20241016-WA0014.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG-20241125-WA0001.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG-20241125-WA0003.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG-20241205-WA0003.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG20251028091304.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG20251028092410.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG20251028092625.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG20251028092825.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG20251028093654.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG20251028093802.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG20251028094426.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG20251028095148.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/IMG202510280952091.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/received_797463587508723.jpeg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/Screenshot_2025-01-06-20-07-48-46_a23b203fd3aafc6dcb84e438dda678b6.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/Screenshot_2025-01-06-20-08-02-66_a23b203fd3aafc6dcb84e438dda678b6.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/meble/Screenshot_2025-01-06-20-09-55-06_a23b203fd3aafc6dcb84e438dda678b6.jpg",
+      "gallery": "meble",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-i-zabudowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/podlogi/253116352_5194120897271466_9132737919385019605_n.jpg",
+      "gallery": "podlogi",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/podlogi/253236934_5194120630604826_819753546352725234_n.jpg",
+      "gallery": "podlogi",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/podlogi/253244266_5194120313938191_7268764023601487645_n.jpg",
+      "gallery": "podlogi",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/podlogi/253378121_5194075897275966_7932756777506989295_n.jpg",
+      "gallery": "podlogi",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/podlogi/253401911_5194120480604841_8649531222292226262_n.jpg",
+      "gallery": "podlogi",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/podlogi/253762521_5194120153938207_6442446007022819561_n.jpg",
+      "gallery": "podlogi",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/podlogi/253968759_5194119893938233_7042284780582658590_n.jpg",
+      "gallery": "podlogi",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/podlogi/272742420_5546490708701148_831935100168968234_n.jpg",
+      "gallery": "podlogi",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/podlogi/273556006_5546488082034744_4804881073955242130_n.jpg",
+      "gallery": "podlogi",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/podlogi/31.jpg",
+      "gallery": "podlogi",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/podlogi/32.jpg",
+      "gallery": "podlogi",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/podlogi/327319918_542721981181138_6022960614572502290_n.jpg",
+      "gallery": "podlogi",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/podlogi/33.jpg",
+      "gallery": "podlogi",
+      "pages": [
+        "https://stolarnia-paw.pl/podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-dywanowe/B_IMG_1714_74267798_2a3faff8_0128_112842.jpg",
+      "gallery": "schody-drewniane-dywanowe",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-drewniane-dywanowe/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-dywanowe/B_IMG_1714_7427_937_4ae66018_0128_112842.jpg",
+      "gallery": "schody-drewniane-dywanowe",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-drewniane-dywanowe/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-dywanowe/B_IMG_176181_687_81_eff0a29e_0128_112842.jpg",
+      "gallery": "schody-drewniane-dywanowe",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-drewniane-dywanowe/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-dywanowe/B_IMG_176181_729497_05b347b9_0128_112842.jpg",
+      "gallery": "schody-drewniane-dywanowe",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-drewniane-dywanowe/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-dywanowe/B_IMG_17618228_2610_7db499a9_0128_112842.jpg",
+      "gallery": "schody-drewniane-dywanowe",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-drewniane-dywanowe/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-dywanowe/B_IMG_17618228_4848_786d8b02_0128_112842.jpg",
+      "gallery": "schody-drewniane-dywanowe",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-drewniane-dywanowe/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-dywanowe/B_IMG_176182283_60__48ef8faf_0128_112842.jpg",
+      "gallery": "schody-drewniane-dywanowe",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-drewniane-dywanowe/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-dywanowe/B_IMG_1761822867_11_2d335893_0128_112842.jpg",
+      "gallery": "schody-drewniane-dywanowe",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-drewniane-dywanowe/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-dywanowe/B_IMG_1761822937_0_40e8d07e_0128_112842.jpg",
+      "gallery": "schody-drewniane-dywanowe",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-drewniane-dywanowe/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-dywanowe/B_IMG_176182294068__b8bc57af_0128_112842.jpg",
+      "gallery": "schody-drewniane-dywanowe",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-drewniane-dywanowe/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-na-beton/61.jpg",
+      "gallery": "schody-drewniane-na-beton",
+      "pages": [
+        "https://stolarnia-paw.pl/schody-drewniane-na-beton/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-na-beton/62.jpg",
+      "gallery": "schody-drewniane-na-beton",
+      "pages": [
+        "https://stolarnia-paw.pl/schody-drewniane-na-beton/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-na-beton/63.jpg",
+      "gallery": "schody-drewniane-na-beton",
+      "pages": [
+        "https://stolarnia-paw.pl/schody-drewniane-na-beton/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-na-beton/64.jpg",
+      "gallery": "schody-drewniane-na-beton",
+      "pages": [
+        "https://stolarnia-paw.pl/schody-drewniane-na-beton/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-na-beton/65.jpg",
+      "gallery": "schody-drewniane-na-beton",
+      "pages": [
+        "https://stolarnia-paw.pl/schody-drewniane-na-beton/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-na-beton/66.jpg",
+      "gallery": "schody-drewniane-na-beton",
+      "pages": [
+        "https://stolarnia-paw.pl/schody-drewniane-na-beton/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-na-beton/67.jpg",
+      "gallery": "schody-drewniane-na-beton",
+      "pages": [
+        "https://stolarnia-paw.pl/schody-drewniane-na-beton/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-drewniane-na-beton/68.jpg",
+      "gallery": "schody-drewniane-na-beton",
+      "pages": [
+        "https://stolarnia-paw.pl/schody-drewniane-na-beton/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-zabudowane/41.jpg",
+      "gallery": "schody-zabudowane",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-zabudowane/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-zabudowane/42.jpg",
+      "gallery": "schody-zabudowane",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-zabudowane/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-zabudowane/43.jpg",
+      "gallery": "schody-zabudowane",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-zabudowane/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-zabudowane/44.jpg",
+      "gallery": "schody-zabudowane",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-zabudowane/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-zabudowane/45.jpg",
+      "gallery": "schody-zabudowane",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-zabudowane/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-zabudowane/46.jpg",
+      "gallery": "schody-zabudowane",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-zabudowane/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-zabudowane/47.jpg",
+      "gallery": "schody-zabudowane",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-zabudowane/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-zabudowane/48.jpg",
+      "gallery": "schody-zabudowane",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-zabudowane/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-zabudowane/49.jpg",
+      "gallery": "schody-zabudowane",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-zabudowane/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-zabudowane/biale-schody-z-zabudowa.jpg",
+      "gallery": "schody-zabudowane",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-zabudowane/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody-zabudowane/schody.jpg",
+      "gallery": "schody-zabudowane",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/schody-zabudowane/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/117592120_3832256503457919_2823421195927189530_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/117753073_3832257026791200_3675976180278051628_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/117871765_3832257903457779_1270578025007548619_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/117904519_3832258666791036_4678948325857700760_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/121734378_4039390802744487_8313496807316575309_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/121779794_4039391329411101_5828531301626527387_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/121799180_4039390542744513_3368747826647180440_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/121973623_4039390936077807_7526206368447072535_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/144605527_4345979588752272_7317084453894955364_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/144827483_4345793302104234_2047330429567071736_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/145372962_4345793342104230_1608596357901603023_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/145382161_4345980962085468_163041134300268505_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/145625095_4345979732085591_4970020429448621993_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/163063545_4483481661668730_7762052772497204403_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/241212672_5002592556424302_8793284150914956925_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/272812972_5546622182021334_3794944005787012607_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/272932627_5546447782038774_1740299762981120386_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/272984817_5546622442021308_8596432802223763769_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/273024051_5546450958705123_8721490261194422296_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/273035094_5546450818705137_505866524121593324_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/273159397_5546622265354659_765950762308762897_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/273326442_5546622368687982_175950255662645472_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/273398825_5546445522039000_6085526869307122581_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/273492542_5546450712038481_1084435996129706457_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/273501450_5546621428688076_1742144273998089513_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/273621491_5546456295371256_5758124006741409847_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/312185342_789112158861060_883418526530374426_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/312267963_789118458860430_7219209327952849929_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/312294808_789112195527723_6033163508238794981_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/312356046_789117382193871_5915545440480525432_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/312408488_789117415527201_6550346590707382187_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/312756920_789111108861165_4306447163712735733_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/312794909_789111092194500_6531267364329358222_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/312984945_789117362193873_2297205172567652541_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/313076693_789111112194498_6388587609119249299_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/313415884_789112178861058_688415501872339995_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/314429808_789117352193874_176946647701671038_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/325590662_1362059657969881_1682408433363581718_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/325727992_495244702737905_2682325899227269739_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/325739606_880209203323451_4626860232193316189_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/325747311_565509818765070_4932268150033746949_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/325755152_5578925192229252_5116990070309287112_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/325867978_556499696395649_2495930832004981747_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/325885690_1355318751960481_597265672815234932_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/326721119_742490057003939_8302041240258945709_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/326904348_876622013582484_3097246257867897924_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/327106664_1133920967291198_1521505999467630174_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/327109670_729317078579702_339624751904637320_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/327115089_722152736209325_2594384228384365997_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/327116639_1264535020762583_8403286484125568101_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/327160916_6100341940011949_8580313460902556517_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/328937268_924325135412230_5214335725351768344_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/332339081_548175737459295_582527463004507063_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/332907146_1393315371497773_5841400481377446431_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/333273923_1075093540113763_4191707428408935657_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/398021387_1007853133653627_603900520442183011_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/398032378_1007842913654649_8675590615499334444_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/398037780_1007842890321318_8227193533316223021_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/398049401_1007842860321321_8231121917262765410_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/398291077_1009405386831735_6490091334013262088_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/398339452_1009405416831732_4001092064862977085_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/398766097_1009405370165070_9135070005972231114_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/399623789_1010990520006555_8147054551886821367_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/406020769_1022340352204905_8778794930087126281_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/406039782_1022340428871564_3413199942764898284_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/49864119_2547170445299871_13069473812578304_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/50294548_2547171421966440_7780033407857197056_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/50431351_2547170475299868_296738190969012224_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/52948751_2625321374151444_7921489452831080448_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/53121544_2625322584151323_1161807727517761536_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/53179961_2625322390818009_6630939887342190592_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/53413475_2625323287484586_2282484296998453248_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/67299981_2885148664835379_6250903923813515264_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/67395791_2885153111501601_5398160380763570176_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/67429787_2885153238168255_4544565888728170496_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/67526844_2885148901502022_471835714045083648_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/67668493_2885148778168701_5053245709139050496_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/67815311_2885153511501561_166215543592845312_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/69740997_3141016802581896_3782377092549705728_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/69808819_3143581865658723_9037698418805309440_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/69872721_2967351803281731_5642503844781883392_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/70250909_2967350089948569_4652262197970337792_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/70265284_2967350969948481_1798825951031721984_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/70496460_2967352939948284_5367110305539162112_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/71.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/72.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/73.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/74.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/74518533_3143581448992098_3744753123202170880_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/75.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/75224884_3143584598991783_2203876130509815808_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/75250872_3138562359494007_8773930398255153152_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/75303691_3138564392827137_7924458623852347392_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/3"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/76.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/77.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/78.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/79.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/80.webp",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/84270744_3331345690215672_8875627724811534336_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/85071427_3331301820220059_6912768425760653312_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/86625250_3362143217135919_3072726303430934528_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/86766469_3362138380469736_1959366610170937344_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/88309118_3399536770063230_472128965822119936_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/89093126_3399534830063424_86429959064649728_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/89245416_3399535806729993_8674152050201722880_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/89529498_3399548776728696_4307843161276809216_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/90307423_3444507382232835_6464994424177819648_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/90894842_3444517232231850_6659449833008398336_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/92246126_3476517335698506_3908694498791653376_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/92253421_3476517155698524_7915356776403304448_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/92307242_3476516605698579_3144919927673061376_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/92332418_3476516985698541_5040759122518081536_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/92520992_3476516819031891_8856126361379536896_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/92563759_3476516692365237_7697623254713761792_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/93132829_3494970267186546_5289219939754835968_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/93220316_3494969760519930_8867190411882397696_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/93399372_3494968863853353_5859640928657997824_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/gallery/schody/93762625_3494970053853234_4276413389468598272_n.jpg",
+      "gallery": "schody",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/nggallery/page/2"
+      ]
+    }
+  ],
+  "uploadImages": [
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/150585075_4385011101515787_6550529439082100425_n-1.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/boazerie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/150731702_4385011371515760_7780595393272545130_n-1.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/boazerie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/178059160_4593645763985652_7282198064557985174_n.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/",
+        "https://stolarnia-paw.pl/stolarnia-paw/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/193017567_4707545655928995_5012992350576638515_n.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/",
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/194038914_4707545799262314_3521574402234748507_n.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/",
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/194378658_4707545499262344_3934125550426630355_n.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/",
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/49213097_2556323121051270_2128464334517436416_n.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/",
+        "https://stolarnia-paw.pl/stolarnia-paw/",
+        "https://stolarnia-paw.pl/tartacznictwo/",
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/49998241_2547166881966894_1409311248083845120_n.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/boazerie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/50503855_2547166325300283_5000378462771347456_n.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/boazerie/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/88236423_3394667063883534_5163341444810801152_n.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/",
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/92395792_3495015693848670_4444010198838804480_n.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/",
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/93478279_3495015303848709_2108709387626348544_n.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/",
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/93702185_3495015687182004_8941709537577009152_n.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/",
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/cropped-cropped-wood-591631_1920.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/",
+        "https://stolarnia-paw.pl/stolarnia-paw/",
+        "https://stolarnia-paw.pl/polityka-prywatnosci/",
+        "https://stolarnia-paw.pl/o-nas/",
+        "https://stolarnia-paw.pl/boazerie/",
+        "https://stolarnia-paw.pl/tartacznictwo/",
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/",
+        "https://stolarnia-paw.pl/schody/schody-zabudowane/",
+        "https://stolarnia-paw.pl/schody-drewniane-na-beton/",
+        "https://stolarnia-paw.pl/kuchnie/",
+        "https://stolarnia-paw.pl/kontakt/",
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-debowa/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-jesionowa/",
+        "https://stolarnia-paw.pl/schody/schody-drewniane-dywanowe/",
+        "https://stolarnia-paw.pl/schody/schody-drewniane-samonosne/",
+        "https://stolarnia-paw.pl/meble-i-zabudowy/",
+        "https://stolarnia-paw.pl/drzwi/",
+        "https://stolarnia-paw.pl/podlogi/",
+        "https://stolarnia-paw.pl/podlogi/jodelka-francuska/",
+        "https://stolarnia-paw.pl/jakie-deski-najlepiej-nadaja-sie-na-podlogi/",
+        "https://stolarnia-paw.pl/do-czego-wykorzystywane-sa-oblogi-debowe/",
+        "https://stolarnia-paw.pl/jak-ukladac-podloge-w-jodelke/",
+        "https://stolarnia-paw.pl/po-czym-poznac-deski-podlogowe-dobrej-jakosci/",
+        "https://stolarnia-paw.pl/jak-dobrac-drewniane-drzwi-na-wymiar/",
+        "https://stolarnia-paw.pl/od-pozyskania-drewna-po-montaz-jak-powstaja-schody-drewniane-dywanowe-proces-produkcji-krok-po-kroku/",
+        "https://stolarnia-paw.pl/jak-dbac-o-podloge-z-drewna/",
+        "https://stolarnia-paw.pl/jak-wybrac-najlepsza-metode-zabezpieczenia-schodow-drewnianych-dywanowych-kompletny-przewodnik-stolarni-paw/",
+        "https://stolarnia-paw.pl/wybor-samonosnych-schodow-drewnianych-kluczowe-wskazowki/",
+        "https://stolarnia-paw.pl/balustrady-i-porecze-do-schodow-drewnianych-dywanowych-najciekawsze-rozwiazania/",
+        "https://stolarnia-paw.pl/ile-kosztuja-schody-drewniane-dywanowe-w-2026-roku-od-czego-zalezy-cena/",
+        "https://stolarnia-paw.pl/meble-na-wymiar-2026-trendy-ktore-naprawde-zostana-na-lata/",
+        "https://stolarnia-paw.pl/producent-deski-podlogowej-jak-wybrac-podloge-ktora-zachwyca-wygladem-i-sluzy-przez-dziesieciolecia/",
+        "https://stolarnia-paw.pl/podloga-drewniana-w-jodelke-francuska-od-przygotowania-podloza-po-codzienna-pielegnacje/",
+        "https://stolarnia-paw.pl/tarcica-debowa-sucha-i-mokra-kompletny-poradnik-przed-zakupem/",
+        "https://stolarnia-paw.pl/blog/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/2",
+        "https://stolarnia-paw.pl/schody/nggallery/page/3",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/2",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1",
+        "https://stolarnia-paw.pl/drzwi/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/kitchen-563548-scaled.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/",
+        "https://stolarnia-paw.pl/stolarnia-paw/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2021/08/stairs-5397601-scaled.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/",
+        "https://stolarnia-paw.pl/stolarnia-paw/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2024/09/deski-podlogowe.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/jakie-deski-najlepiej-nadaja-sie-na-podlogi/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2024/11/schody1_879370d5_1021_095639.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/2",
+        "https://stolarnia-paw.pl/schody/nggallery/page/3",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2024/11/schody2_e7e6cb71_1021_095639.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/2",
+        "https://stolarnia-paw.pl/schody/nggallery/page/3",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2024/11/schody3_a0f61581_1021_095639.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/2",
+        "https://stolarnia-paw.pl/schody/nggallery/page/3",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2024/11/schody4_682e1b6c_1021_095639.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/schody/",
+        "https://stolarnia-paw.pl/schody/nggallery/page/2",
+        "https://stolarnia-paw.pl/schody/nggallery/page/3",
+        "https://stolarnia-paw.pl/schody/nggallery/page/1"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2024/11/tartacznictwo1_7e6eb853_1021_095639.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/",
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-debowa/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-jesionowa/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2024/11/tartacznictwo2_294fdfa4_1021_095639.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/",
+        "https://stolarnia-paw.pl/stolarnia-paw/",
+        "https://stolarnia-paw.pl/tartacznictwo/",
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-debowa/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-jesionowa/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2024/12/drewniane-drzwi-w-mieszkaniu.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/jak-dobrac-drewniane-drzwi-na-wymiar/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/03/oblogi-debowe.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/do-czego-wykorzystywane-sa-oblogi-debowe/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/06/ukladanie-podlogi-w-jodelke.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/jak-ukladac-podloge-w-jodelke/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/09/po-czym-poznac-deski-podogowe-dobrej-jakosci-1200x628-1.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/po-czym-poznac-deski-podlogowe-dobrej-jakosci/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/1.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/10.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-debowa/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-jesionowa/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/11.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-debowa/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-jesionowa/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/2.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/3-scaled.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/oblog-debowy/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/4.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-debowa/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-jesionowa/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/5.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-debowa/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-jesionowa/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/6.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-debowa/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-jesionowa/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/7.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-debowa/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-jesionowa/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/8.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-debowa/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-jesionowa/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/11/9.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-debowa/",
+        "https://stolarnia-paw.pl/tartacznictwo/tarcica-jesionowa/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2025/12/schody.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/od-pozyskania-drewna-po-montaz-jak-powstaja-schody-drewniane-dywanowe-proces-produkcji-krok-po-kroku/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2026/01/dywanowe.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/jak-wybrac-najlepsza-metode-zabezpieczenia-schodow-drewnianych-dywanowych-kompletny-przewodnik-stolarni-paw/",
+        "https://stolarnia-paw.pl/blog/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2026/01/podloga-drewna.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/jak-dbac-o-podloge-z-drewna/",
+        "https://stolarnia-paw.pl/blog/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2026/02/drewniane-schody-samonosne.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/wybor-samonosnych-schodow-drewnianych-kluczowe-wskazowki/",
+        "https://stolarnia-paw.pl/blog/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2026/02/schody.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/balustrady-i-porecze-do-schodow-drewnianych-dywanowych-najciekawsze-rozwiazania/",
+        "https://stolarnia-paw.pl/blog/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2026/04/schody.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/ile-kosztuja-schody-drewniane-dywanowe-w-2026-roku-od-czego-zalezy-cena/",
+        "https://stolarnia-paw.pl/blog/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2026/06/mebel.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/meble-na-wymiar-2026-trendy-ktore-naprawde-zostana-na-lata/",
+        "https://stolarnia-paw.pl/blog/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2026/07/jodelka.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/podloga-drewniana-w-jodelke-francuska-od-przygotowania-podloza-po-codzienna-pielegnacje/",
+        "https://stolarnia-paw.pl/blog/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2026/07/parkiet.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/producent-deski-podlogowej-jak-wybrac-podloge-ktora-zachwyca-wygladem-i-sluzy-przez-dziesieciolecia/",
+        "https://stolarnia-paw.pl/blog/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2026/08/drewno-debowe.webp",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/tarcica-debowa-sucha-i-mokra-kompletny-poradnik-przed-zakupem/",
+        "https://stolarnia-paw.pl/blog/"
+      ]
+    },
+    {
+      "url": "https://stolarnia-paw.pl/wp-content/uploads/2026/09/deski-w-tartaku.jpg",
+      "gallery": "uploads",
+      "pages": [
+        "https://stolarnia-paw.pl/blog/"
+      ]
+    }
+  ],
+  "failures": []
+}
