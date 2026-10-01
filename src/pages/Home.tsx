@@ -57,7 +57,7 @@ export default function Home() {
           <Reveal>
             <p className="eyebrow">Jawiszowice / Małopolska / od 1945</p>
             <h1>Stolarnia Paw</h1>
-            <p className="home-hero__statement">Rysujemy. Wybieramy drewno.<br />Budujemy na lata.</p>
+            <p className="home-hero__statement">Projektujemy. Wybieramy drewno.<br />Budujemy na lata.</p>
             <p className="home-hero__lead">Schody, podłogi, drzwi i zabudowy tworzone w jednym procesie: od własnego materiału po montaż u klienta.</p>
             <div className="hero-actions">
               <Link className="button" to="/realizacje/">Zobacz realizacje <ArrowRight size={18} /></Link>
