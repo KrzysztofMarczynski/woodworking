@@ -445,6 +445,8 @@ p { font-size: 1rem; line-height: 1.75; }
   .home-hero__content { min-height: 780px; }
   .home-hero__content > div { width: 75%; }
   .home-hero h1 { font-size: 5.4rem; }
+  .offer-item__video { display: none; }
+  .offer-item__poster { display: block; }
   .offer-item { grid-column: span 6; }
   .offer-item--2, .offer-item--3 { margin-top: 0; }
   .process-line { grid-template-columns: repeat(2, 1fr); }

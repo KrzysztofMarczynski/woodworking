@@ -12,7 +12,8 @@ export default function OfferMedia({ image, video }: Props) {
 
   useEffect(() => {
     const element = videoRef.current;
-    if (!element || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    const shouldUsePoster = window.matchMedia("(max-width: 960px), (prefers-reduced-motion: reduce)").matches;
+    if (!element || shouldUsePoster) return;
 
     const observer = new IntersectionObserver(([entry]) => {
       if (entry.isIntersecting) {
