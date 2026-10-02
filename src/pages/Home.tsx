@@ -25,6 +25,14 @@ export default function Home() {
   const [activeVideoIndex, setActiveVideoIndex] = useState(0);
   const activeVideo = homeVideos[activeVideoIndex];
   const showNextVideo = () => setActiveVideoIndex((current) => (current + 1) % homeVideos.length);
+  const setHeroVideoPlaybackRate = (video: HTMLVideoElement) => {
+    const isTouchDevice = window.matchMedia("(hover: none) and (pointer: coarse)").matches;
+    const isMobileViewport = window.matchMedia("(max-width: 900px)").matches;
+    const playbackRate = isTouchDevice || isMobileViewport ? 0.7 : 1;
+
+    video.defaultPlaybackRate = playbackRate;
+    video.playbackRate = playbackRate;
+  };
 
   return (
     <>
@@ -39,6 +47,8 @@ export default function Home() {
             playsInline
             poster={activeVideo.poster}
             preload="auto"
+            onLoadedMetadata={(event) => setHeroVideoPlaybackRate(event.currentTarget)}
+            onPlay={(event) => setHeroVideoPlaybackRate(event.currentTarget)}
             onEnded={showNextVideo}
             onError={showNextVideo}
           >
