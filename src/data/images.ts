@@ -28,7 +28,7 @@ const portfolio = {
     height: 1600,
   },
   stairsSelf: {
-    src: "/images/portfolio/schody-samonosne.jpg",
+    src: "/images/portfolio/schody-samonosne-jasne-2026.jpg",
     alt: "Jasne schody samonośne w nowoczesnym wnętrzu",
     width: 1360,
     height: 907,
