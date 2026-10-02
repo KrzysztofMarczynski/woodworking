@@ -7,6 +7,7 @@ export type ImageAsset = {
 
 export type VideoAsset = {
   src: string;
+  mobileSrc?: string;
   poster: string;
   label: string;
   sourceUrl: string;

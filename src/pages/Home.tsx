@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { ArrowDown, ArrowRight, DraftingCompass, Hammer, Layers3, Ruler, Trees } from "lucide-react";
 import { Link } from "react-router-dom";
 import CTA from "../components/CTA";
@@ -21,18 +21,22 @@ const process = [
   { icon: Layers3, title: "Montaż", text: "Dowozimy i składamy całość w gotowej przestrzeni." },
 ];
 
+const mobileVideoMediaQuery = "(max-width: 1024px), (hover: none) and (pointer: coarse)";
+
 export default function Home() {
   const [activeVideoIndex, setActiveVideoIndex] = useState(0);
+  const [useMobileVideo, setUseMobileVideo] = useState(() => window.matchMedia(mobileVideoMediaQuery).matches);
   const activeVideo = homeVideos[activeVideoIndex];
+  const activeVideoSrc = useMobileVideo && activeVideo.mobileSrc ? activeVideo.mobileSrc : activeVideo.src;
   const showNextVideo = () => setActiveVideoIndex((current) => (current + 1) % homeVideos.length);
-  const setHeroVideoPlaybackRate = (video: HTMLVideoElement) => {
-    const isTouchDevice = window.matchMedia("(hover: none) and (pointer: coarse)").matches;
-    const isMobileViewport = window.matchMedia("(max-width: 900px)").matches;
-    const playbackRate = isTouchDevice || isMobileViewport ? 0.7 : 1;
 
-    video.defaultPlaybackRate = playbackRate;
-    video.playbackRate = playbackRate;
-  };
+  useEffect(() => {
+    const mediaQuery = window.matchMedia(mobileVideoMediaQuery);
+    const updateVideoSource = () => setUseMobileVideo(mediaQuery.matches);
+
+    mediaQuery.addEventListener("change", updateVideoSource);
+    return () => mediaQuery.removeEventListener("change", updateVideoSource);
+  }, []);
 
   return (
     <>
@@ -41,19 +45,21 @@ export default function Home() {
         <div className="home-hero__media" aria-hidden="true">
           <video
             className="home-hero__image home-hero__video"
-            key={activeVideo.src}
+            key={activeVideoSrc}
+            src={activeVideoSrc}
             autoPlay
             muted
             playsInline
             poster={activeVideo.poster}
             preload="auto"
-            onLoadedMetadata={(event) => setHeroVideoPlaybackRate(event.currentTarget)}
-            onPlay={(event) => setHeroVideoPlaybackRate(event.currentTarget)}
+            onLoadedMetadata={(event) => {
+              event.currentTarget.currentTime = 0;
+              event.currentTarget.defaultPlaybackRate = 1;
+              event.currentTarget.playbackRate = 1;
+            }}
             onEnded={showNextVideo}
             onError={showNextVideo}
-          >
-            <source src={activeVideo.src} type="video/mp4" />
-          </video>
+          />
           <img
             className="home-hero__image home-hero__poster"
             src={activeVideo.poster}
