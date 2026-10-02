@@ -9,7 +9,7 @@ export const videos = {
   },
   finishedStairs: {
     src: "/images/video/schody-gotowa-realizacja.mp4",
-    poster: "/images/video/schody-gotowa-realizacja.jpg",
+    poster: "/images/portfolio/schody-samonosne.jpg",
     label: "Schody / realizacja",
     sourceUrl: "https://www.facebook.com/reel/1464945595116938",
   },

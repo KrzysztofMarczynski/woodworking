@@ -383,7 +383,7 @@ export const images: ImageLibrary = {
   },
   services: {
     stairs: {
-      ...portfolio.stairs,
+      ...portfolio.stairsSelf,
     },
     floors: { ...portfolio.floor },
     doors: { ...existing.door },
