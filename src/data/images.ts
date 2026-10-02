@@ -407,7 +407,7 @@ export const images: ImageLibrary = {
 };
 
 export const imageGalleries: Record<string, ImageAsset[]> = {
-  stairs: [portfolio.stairs, portfolio.stairsTop, portfolio.stairsSelf, portfolio.stairsDetail],
+  stairs: [portfolio.stairsSelf, portfolio.stairsDetail, portfolio.stairs, portfolio.stairsTop],
   floors: [portfolio.floor, existing.floor, portfolio.floorClassic],
   doors: [existing.door, existing.doorDetail, portfolio.doorHall],
   kitchens: [
