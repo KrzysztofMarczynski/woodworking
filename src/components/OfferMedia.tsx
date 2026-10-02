@@ -1,4 +1,4 @@
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import type { ImageAsset, VideoAsset } from "../types/content";
 
 type Props = {
@@ -8,6 +8,7 @@ type Props = {
 
 export default function OfferMedia({ image, video }: Props) {
   const videoRef = useRef<HTMLVideoElement>(null);
+  const [hasStartedPlaying, setHasStartedPlaying] = useState(false);
 
   useEffect(() => {
     const element = videoRef.current;
@@ -31,10 +32,21 @@ export default function OfferMedia({ image, video }: Props) {
 
   return (
     <>
-      <video ref={videoRef} className="offer-item__video" loop muted playsInline poster={video.poster} preload="metadata" aria-hidden="true">
+      <img className="offer-item__poster" src={video.poster} alt={image.alt} width="540" height="960" loading="lazy" />
+      <video
+        ref={videoRef}
+        className={`offer-item__video${hasStartedPlaying ? " offer-item__video--ready" : ""}`}
+        loop
+        muted
+        playsInline
+        poster={video.poster}
+        preload="metadata"
+        aria-hidden="true"
+        onPlaying={() => setHasStartedPlaying(true)}
+        onError={() => setHasStartedPlaying(false)}
+      >
         <source src={video.src} type="video/mp4" />
       </video>
-      <img className="offer-item__poster" src={video.poster} alt={image.alt} width="540" height="960" loading="lazy" />
     </>
   );
 }

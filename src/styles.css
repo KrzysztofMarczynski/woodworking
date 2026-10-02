@@ -114,9 +114,12 @@ p { font-size: 1rem; line-height: 1.75; }
 .offer-item a { display: block; }
 .offer-item__media { position: relative; aspect-ratio: 4 / 5; overflow: hidden; background: var(--paper-deep); }
 .offer-item:nth-child(3n + 1) .offer-item__media { aspect-ratio: 4 / 4.6; }
-.offer-item__media img, .offer-item__media video { width: 100%; height: 100%; object-fit: cover; transition: transform .65s ease; }
+.offer-item__media img, .offer-item__media video { width: 100%; height: 100%; object-fit: cover; transition: transform .65s ease, opacity .25s ease; }
 .offer-item__media--video { background: #18201b; }
-.offer-item__poster { display: none; }
+.offer-item__poster, .offer-item__video { position: absolute; inset: 0; }
+.offer-item__poster { display: block; }
+.offer-item__video { z-index: 1; opacity: 0; }
+.offer-item__video--ready { opacity: 1; }
 .offer-item:hover .offer-item__media img, .offer-item:hover .offer-item__media video { transform: scale(1.025); }
 .offer-item__meta { display: grid; grid-template-columns: 35px 1fr auto; gap: 10px; align-items: baseline; padding: 20px 0 11px; border-bottom: 1px solid var(--ink); }
 .offer-item__meta span { color: var(--rust); font-size: .72rem; }
